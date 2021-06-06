@@ -1,0 +1,15 @@
+{
+    
+  "compileOnSave": true,
+    "compilerOptions": {
+      "module": "none",
+      "target": "es2015",
+      "sourceMap": true,
+      "lib": [
+        "dom",
+        "es2015",
+        "es5",
+        "es6"
+      ]
+    }
+  }

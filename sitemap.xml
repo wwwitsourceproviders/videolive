@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://podiumacademicmanagement.com/</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/index.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/course/list.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/login.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/register.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/contact.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/404.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/course/preview/Mathematics-101GsbgdD45N6.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/privacy.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/terms.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/forgot-password.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/v1/contact.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://podiumacademicmanagement.com/v1/index.htm</loc>
+  <lastmod>2020-05-04T19:35:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,10 @@
+{
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8",
+        "firebase/php-jwt": "^5.2",
+        "slim/slim": "^3.0",
+        "alexgarrett/violin": "^2.2",
+        "touhonoob/rate-limit": "1.2.0",
+        "php-ffmpeg/php-ffmpeg": "^0.16.0"
+    }
+}

@@ -1,0 +1,7 @@
+# Protect the htaccess file
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+Order Deny,Allow
+Deny from all
